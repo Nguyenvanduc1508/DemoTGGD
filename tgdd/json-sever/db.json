@@ -1,0 +1,49 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "installment": "Trả góp 0%",
+            "img": "./img/spnoibat/spnbip13.jpg",
+            "product": "iPhone 12 Pro Max 128GB",
+            "price_cost": "32.990.000đ",
+            "price_current": "31.490.000đ",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "installment": "Trả góp 0%",
+            "img": "./img/spnoibat/spnbss.jpg",
+            "product": "Samsung Galaxy Z Flip3 5G 256GB",
+            "price_cost": "26.990.000đ",
+            "price_current": "25.990.000đ",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "installment": "Trả góp 0%",
+            "img": "./img/spnoibat/spnbip11.jpg",
+            "product": "iPhone 11 128GB",
+            "price_cost": "20.490.000đ",
+            "price_current": "18.990.000đ",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "installment": "Trả góp 0%",
+            "img": "./img/spnoibat/spnbop.jpg",
+            "product": "Oppo Reno6 Pro 5G",
+            "price_cost": "18.990.000đ",
+            "price_current": "17.990.000đ",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "installment": "Trả góp 0%",
+            "img": "./img/spnoibat/spnbvivo.jpg",
+            "product": "Vivo Y20s",
+            "price_cost": "4.990.000đ",
+            "price_current": "4.690.000đ",
+            "description": ""
+        }
+    ]
+}
